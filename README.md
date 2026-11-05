@@ -1,27 +1,43 @@
-<h1>Oi, sou Jorge Henrique! <br/><a href="https://www.linkedin.com/in/jorge-carvalho-50b20a256/">Profissional de cibersegurança</a>
-<br/> Python • MySQL • Cybersecurity
-<h2>👨‍💻 Projetos de Cibersegurança:</h2>
+<h1 align="center">Jorge Henrique</h1>
 
-- <b>Python:</b>
-  - [Praciting DS & Algos in Python]()
+<p align="center">
+  <b>Estudante de Cibersegurança</b> · SOC / Blue Team · Análise de Malware<br>
+  📍 Rio de Janeiro, Brasil
+</p>
 
-<h2> 🤳 Me contate:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-carvalho-50b20a256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:carvalho.jha.183@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-[<img align="left" alt="Jorge Henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/jorge-carvalho-50b20a256/
+## 👋 Sobre mim
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o **Jorge Henrique**. Curso **Análise e Desenvolvimento de Sistemas, pela UniCesumar**. Aprendo fazendo: monto laboratórios, testo em ambiente controlado e documento o processo aqui no GitHub.
 
-Here are some ideas to get you started:
+🎯 **Objetivo:** conquistar uma vaga em cibersegurança, como analista (SOC). Se fizer sentido para o seu time, vamos conversar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 No que estou trabalhando
+
+- 🛡️ **Portfólio de SOC** — labs práticos de segurança defensiva, publicados no [soc-portfolio](LINK AQUI)
+- 🦠 **Análise de malware** — laboratório isolado com uma VM Windows e Ubuntu em rede isolada, para estudar engenharia reversa
+- 🐧 **Linux no dia a dia** — uso Ubuntu 26.04.1 LTS como sistema principal
+
+## 🧰 Ferramentas e tecnologias
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📚 Estudando agora
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3D82F1?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge)
+
+---
+
+<p align="center"><i>Em constante evolução — um lab de cada vez.</i></p>
